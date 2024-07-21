@@ -3,8 +3,7 @@
 As part of a web programming course, we've created Adoptmania - a web application designed to streamline the pet adoption process.
 
 ## Contributors:
-- [Adriana Lisseth Gonzales Rodriguez](https://github.com/ahdrii)
-- [Ivett Graciela Chacaltana Espinoza](https://github.com/Ivett263)
+- [Haddad Aziz and Khayal Hassan]
 
 ## Technologies Used:
 - **Backend:** Python, Flask
